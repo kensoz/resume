@@ -3,7 +3,7 @@
     <div class="title">
       RenHou Resume
       <span style="padding-left: 10px">
-        <router-link to="/resume">日本語</router-link>
+        <router-link to="/">日本語</router-link>
         ・
         <span style="color: #93c5fd">简体中文</span>
       </span>

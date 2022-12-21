@@ -5,7 +5,7 @@
       <span style="padding-left: 10px">
         <span style="color: #93c5fd">日本語</span>
         ・
-        <router-link to="/resume/cn">简体中文</router-link>
+        <router-link to="cn">简体中文</router-link>
       </span>
     </div>
     <vue-markdown :options="options" :source="source" />
