@@ -1,3 +1,3 @@
-# Resume
+Resume
 
-🚧 TODO 
+🚧 TODO
