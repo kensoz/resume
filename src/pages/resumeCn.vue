@@ -4,8 +4,7 @@
       RenHou Resume
       <span style="padding-left: 10px">
         <router-link to="/">日本語</router-link>
-        ・
-        <span style="color: #93c5fd">简体中文</span>
+        ・ 简体中文
       </span>
     </div>
     <vue-markdown :options="options" :source="source" />
