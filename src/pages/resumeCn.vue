@@ -8,13 +8,15 @@
         <span style="color: #93c5fd">简体中文</span>
       </span>
     </div>
-    <vue-markdown :source="source" />
+    <vue-markdown :options="options" :source="source" />
   </section>
 </template>
 
 <script lang="ts" setup>
 import { ref, onMounted } from 'vue'
 import VueMarkdown from 'vue-markdown-render'
+
+const options = { html: false }
 
 const source = ref<string>('')
 onMounted(async (): Promise<void> => {
