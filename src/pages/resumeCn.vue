@@ -3,7 +3,7 @@
     <div class="title">
       RenHou Resume
       <span style="padding-left: 10px">
-        <router-link to="/">日本語</router-link>
+        <router-link to="/resume">日本語</router-link>
         ・
         <span style="color: #93c5fd">简体中文</span>
       </span>
@@ -16,11 +16,11 @@
 import { ref, onMounted } from 'vue'
 import VueMarkdown from 'vue-markdown-render'
 
-const options = { html: false }
+const options = { html: true }
 
 const source = ref<string>('')
 onMounted(async (): Promise<void> => {
-  await fetch('/cn.md')
+  await fetch('/resume/cn.md')
     .then((res: Response) => res.text())
     .then((text: string) => {
       source.value = text
