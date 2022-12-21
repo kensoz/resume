@@ -1,12 +1,5 @@
 <template>
   <section>
-    <div class="title">
-      RenHou Resume
-      <span style="padding-left: 10px">
-        <router-link to="/">日本語</router-link>
-        ・ 简体中文
-      </span>
-    </div>
     <vue-markdown :options="options" :source="source" />
   </section>
 </template>
@@ -26,15 +19,3 @@ onMounted(async (): Promise<void> => {
     })
 })
 </script>
-
-<style scoped>
-.title {
-  padding-top: 5px;
-  padding-bottom: 10px;
-  font-weight: 700;
-}
-
-a:visited {
-  color: #1e293b;
-}
-</style>
