@@ -1,3 +1,1 @@
-Resume
-
-🚧 TODO11
+##### 💼 Resume ・ [LINK](https://kensoz.github.io/resume/)
