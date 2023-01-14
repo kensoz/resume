@@ -2,20 +2,22 @@
   <main>
     <div class="title">
       RenHou Resume
-      <span style="padding-left: 10px">
+      <!-- <span style="padding-left: 10px">
         <button @click="click(true)">日本語</button>
         ・
         <button @click="click(false)">简体中文</button>
-      </span>
+      </span> -->
     </div>
 
-    <div v-if="isJa">
+   <ResumeJa />
+
+    <!-- <div v-if="isJa">
       <ResumeJa />
     </div>
 
     <div v-else>
       <ResumeCn />
-    </div>
+    </div> -->
   </main>
 </template>
 
