@@ -280,10 +280,11 @@ Webフロントエンドエンジニアとし、技術選定の際にすべて�
 
 🎯 Svelte.jsなど多くの新しい技術を使用だけでなく、デプロイのため Docker を週末22時間学びました。 機能を充実させながら最適化を行い、静的検証できる開発環境も整えました。
 
-+ **フルスタック開発、全サイドDockerコンテンツ化、自動テストとCD/CI導入、クラウドでデプロイ** 
-+ [APIサーバー](https://github.com/kensoz/Rrea-server)：Koa.js（TS）による**GraphQL、Restful、JWT認証、権限システム**、エラー＆ログ処理機能のサーバを構築、ビルド最適化（rollup.js → 12.2KB）
++ **フルスタック開発、全サイドDockerコンテンツ化、自動テストとCD/CI導入、Docker ComposeによるUbuntuでデプロイ** 
++ [APIサーバー](https://github.com/kensoz/Rrea-server)：Koa.js（TS）による**GraphQL、Restful、JWT認証、権限システム**、[エラー](https://github.com/kensoz/Rrea-server/blob/master/docs/error.md)＆ログ処理機能のサーバを構築、ビルド最適化（[rollup.js 106KB→ 12.2KB](https://qiita.com/kensoz/items/441c1f12eb61d137ee2c)）
 + [お客様サイト](https://github.com/kensoz/Rrea-client)：[Vue.js版](https://github.com/kensoz/Rrea-client)をはじめ、[React.js版](https://github.com/kensoz/Rrea-client-collection/tree/master/c2-react18-ts-mui)、[Svelte.js版](https://github.com/kensoz/Rrea-client-collection/tree/master/c3-svelte-ts-bulma)、[Vue.js状態管理版](https://github.com/kensoz/Rrea-client-collection/tree/master/c4-vue3-ts-quasar)を構築。レスポンシブ、ダークモード対応
-+ [管理者サイト](https://github.com/kensoz/Rrea-admin)：**JWT認証によるユーザー認証&権限&管理システム**、パスワード暗号化、レスポンシブ、ダークモード対応（PostCSS）、ビルド最適化（Vite）
++ [管理者サイト](https://github.com/kensoz/Rrea-admin)：**JWT認証によるユーザー認証&権限&管理システム**、CRUD、パスワード暗号化、レスポンシブ、ダークモード対応（PostCSS）、ビルド最適化（Vite）
++ 開発に伴う多くの記事を作成、代表的には：[Dockerで環境を作る](https://qiita.com/kensoz/items/2fc0b707e91e6ec8920e)、[VSCodeセットアップ](https://qiita.com/kensoz/items/053c7103cd073d09f81e)
 
 
 
