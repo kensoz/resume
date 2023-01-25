@@ -293,7 +293,14 @@ Webフロントエンドエンジニアとし、技術選定の際にすべて�
 + 認証、訪問者システムの最適化
 + センサー調査
 
+----
 
+### 3.その他のアウトプット
+
+#### BLOG
+[URL](https://kensoz.github.io/blog/) · 個人の技術ブログとなります。技術記事をはじめ、毎週[LeetCode](https://kensoz.github.io/blog/algorithm/leetcode.html)、[Paiza](https://kensoz.github.io/blog/algorithm/paizam.html)でコーディングテストへの取り組みを記録しています。ブログ自体はVuePressによる構築し、GitHub Pagesでデプロイしました。
+
+----
 
 ## 資格
 
