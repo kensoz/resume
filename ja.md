@@ -1,19 +1,21 @@
-🎯　[Linkedin](https://jp.linkedin.com/in/kensoz) ・ [GitHub](https://github.com/kensoz) ・ [renhoujob@gmail.com](mailto:renhoujob@gmail.com)
-
+# 職務経歴書
++ 🎯 [Linkedin](https://jp.linkedin.com/in/kensoz) ・ 🌱 [GitHub](https://github.com/kensoz) ・ ✉ [renhoujob@gmail.com](mailto:renhoujob@gmail.com)
++ 📡  [Qiita](https://qiita.com/kensoz) ・ [SegmentFault](https://segmentfault.com/u/kensoz/articles) ・ [Juejin](https://juejin.cn/user/1029616691882653/posts?sort=newest)
++ 📒 [Blog](https://kensoz.github.io/blog/) ・ 🏠 [Portfolio Site](https://kensoz.github.io/portfolio/)
 
 ## 自己紹介
 
-連萌（れんほう）と申す。1993年3月21日生まれ、東京都在住。  
+連萌（れんほう）と申します。1993年3月21日生まれ、東京都在住。  
 2016年留学生として来日。日本の大学院卒業後、新卒で日本気象株式会社に入社、その後、株式会社グッドフェローズに転職。FE として一貫して web フロントエンドの開発に携わっています。
 
 ## 強み
 
 + ⚓　JavaScript 、TypeScript、Node.jsによる開発
-+ 🔨　Vue.js、React.js、Nuxt.js、Next.jsによる開発が得意。特にVue.js
++ 🔨　Vue.js、React.js、Nuxt.js、Next.jsによる開発が得意
 + 🎨　UIライブラリの活用も、SASSの新規作成も、UXを意識した開発ができる
 + 🏭　バンドル・ビルドツールによる環境の構築から最適化の経験、ESLintとprettierへの理解が深い
 + 🚀　Nginx、Docker、CI/CD、SaaSでデプロイ、Jest、Vitestで自動テストの経験
-+ 🌌　Webフロントエンド開発への情熱
++ 🌌　開発への情熱
 
 
 
@@ -244,7 +246,7 @@ Webフロントエンドエンジニアとし、技術選定の際にすべて�
 
 🎯 コンテンツ充実度、使いやすさ、PRしやすさの観点から、多くの最適化と工夫を行いました。
 
-+ ベースとした**266**個のWebフロント技術を収集と確認（更新中、2023年1月18日時点）
++ ベースとした**268**個のWebフロント技術を収集と確認（更新中、2023年1月29日時点）
 + 一般的なサイトの**機能を全部揃え**：レスポンシブ、i18n（Ja/Cn/En）、ダークモード、SSGとSEO対応
 + Lighthouse平均**スコア98**、unitテスト平均**カバレッジを82%**
   （unitテスト平均カバレッジは元々98%だが、next-page-testerの更新停止に伴う画面遷移テストを削除した、E2EのCypressへ移行予定）
