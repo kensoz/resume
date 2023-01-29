@@ -11,11 +11,11 @@
 ## 強み
 
 + ⚓　JavaScript 、TypeScript、Node.jsによる開発
-+ 🔨　Vue.js、React.js、Nuxt.js、Next.jsによる開発が得意
++ 🔨　Vue.js、React.js、Nuxt.js、Next.jsによる開発が得意。特にVue.js
 + 🎨　UIライブラリの活用も、SASSの新規作成も、UXを意識した開発ができる
 + 🏭　バンドル・ビルドツールによる環境の構築から最適化の経験、ESLintとprettierへの理解が深い
 + 🚀　Nginx、Docker、CI/CD、SaaSでデプロイ、Jest、Vitestで自動テストの経験
-+ 🌌　開発への情熱
++ 🌌　Webフロントエンド開発への情熱
 
 
 
