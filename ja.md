@@ -1,12 +1,12 @@
 # 職務経歴書
-+ 🎯 [Linkedin](https://jp.linkedin.com/in/kensoz) ・ 🌱 [GitHub](https://github.com/kensoz) ・ ✉ [renhoujob@gmail.com](mailto:renhoujob@gmail.com)
++ 🎯 [Linkedin](https://jp.linkedin.com/in/kensoz) ・ 🌱 [GitHub](https://github.com/kensoz) ・ 📧 [renhoujob@gmail.com](mailto:renhoujob@gmail.com)
 + 📡  [Qiita](https://qiita.com/kensoz) ・ [SegmentFault](https://segmentfault.com/u/kensoz/articles) ・ [Juejin](https://juejin.cn/user/1029616691882653/posts?sort=newest)
 + 📒 [Blog](https://kensoz.github.io/blog/) ・ 🏠 [Portfolio Site](https://kensoz.github.io/portfolio/)
 
 ## 自己紹介
 
 連萌（れんほう）と申します。1993年3月21日生まれ、東京都在住。  
-2016年留学生として来日。日本の大学院卒業後、新卒で日本気象株式会社に入社、その後、株式会社グッドフェローズに転職。FE として一貫して web フロントエンドの開発に携わっています。
+2016年留学生として来日。日本の大学院卒業後、新卒で日本気象株式会社に入社、その後、株式会社グッドフェローズに転職。Webフロントエンドエンジニア（FE）として一貫して web フロントエンドの開発に携わっていました。
 
 ## 強み
 
